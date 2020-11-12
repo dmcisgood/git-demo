@@ -5,5 +5,7 @@ public class TestMain1 {
         System.out.println("git is good");
 
         System.out.println("dmc is good");
+
+        System.out.println("zzt is good");
     }
 }
